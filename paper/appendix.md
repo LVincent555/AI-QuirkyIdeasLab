@@ -1,3 +1,8 @@
+---
+This paper adopts the CC BY-SA 4.0 license for open source.
+Author: Vincent
+License Link: https://creativecommons.org/licenses/by-sa/4.0/
+---
 # Appendix: Mathematical Details
 
 This appendix elaborates on the key formula derivations and pseudocode extensions from the main body of the paper. The derivation section includes step-by-step reasoning, necessary assumptions, and proofs to ensure theoretical rigor. The pseudocode extensions provide complete implementation details, including variable definitions, boundary condition handling, and complexity analysis. This content can be directly used for simulation or prototype development.

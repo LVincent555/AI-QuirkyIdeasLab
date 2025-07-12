@@ -1,3 +1,8 @@
+---
+This paper adopts the CC BY-SA 4.0 license for open source.
+Author: Vincent
+License Link: https://creativecommons.org/licenses/by-sa/4.0/
+---
 # 动态维度神经网络：从维度差距到广义能量模型的统一计算框架 (D3-MAI-GEM)
 **作者**：Vincent & AI 协作实体
 
@@ -140,3 +145,8 @@ D3-MAI-GEM 统一了维度差距的弥合，提供动态神经网络框架。未
 
 ## 附录：数学细节
 （详细展开公式推导和伪代码扩展）
+
+---
+This paper adopts the CC BY-SA 4.0 license for open source.
+Author: Vincent
+License Link: https://creativecommons.org/licenses/by-sa/4.0/

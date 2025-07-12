@@ -136,4 +136,3 @@ Appendix: Mathematical Details
 This paper adopts the CC BY-SA 4.0 license for open source.
 Author: Vincent
 License Link: https://creativecommons.org/licenses/by-sa/4.0/
-

@@ -677,3 +677,8 @@ def deploy_adi(input_data, steps=10, config={'levels':3, 'uncertainty':0.1, 'syn
       High -->|Emergence| End[Higher-Dimensional Intelligence]
       End -->|Feedback Loop| Start
       style End fill:#00ff00,stroke:#333
+
+---
+This paper adopts the CC BY-SA 4.0 license for open source.
+Author: Vincent
+License Link: https://creativecommons.org/licenses/by-sa/4.0/
