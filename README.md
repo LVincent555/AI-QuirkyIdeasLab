@@ -22,6 +22,7 @@
     *   `Gemini_version`: 存放核心理论《论智能的计算第一性原理 (MAI-GEM)》的相关文档。
     *   `Claude_version`: 存放关于《内嵌思维链的自组织神经网络 (ESON)》的探索性文档。
     *   `Grok_version`: 存放关于《ADI 框架》的初步构想。
+    *   `GPT-5_version`: 存放关于《内嵌思维链的升维度智能》的统一计算框架文档。
 *   **/code**: 存放与 `Gemini_version` 论文中理论对应的概念验证代码。
 
 ### 📄 授权与分享精神
@@ -59,6 +60,7 @@ I'm opening it up to the world. If these imaginative thoughts can offer you a sp
     *   `Gemini_version`: Contains documents related to the core theory "On the Computational First Principle of Intelligence (MAI-GEM)".
     *   `Claude_version`: Contains exploratory documents on "Embedded Self-Organizing Network with Chain-of-Thought (ESON)".
     *   `Grok_version`: Contains initial ideas on the "ADI Framework".
+    *   `GPT-5_version`: Contains documents on the unified computing framework "Dimensionality-Elevating Intelligence with Embedded Chain-of-Thought".
 *   **/code**: Contains proof-of-concept code corresponding to the theories in the `Gemini_version` paper.
 
 ### 📄 License & The Spirit of Sharing
